@@ -1,0 +1,5 @@
+Django>=5.0
+djangorestframework
+mysqlclient  # To connect Django to MySQL
+drf-spectacular  # For OpenAPI/Swagger documentation
+python-dotenv  # Recommended for managing environment variables (like secrets)
